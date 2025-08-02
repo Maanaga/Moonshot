@@ -1,9 +1,3 @@
-//
-//  MissionView.swift
-//  Moonshot
-//
-//  Created by Luka Managadze on 7/31/25.
-//
 
 import SwiftUI
 
@@ -27,6 +21,10 @@ struct MissionView: View {
                         width * 0.5
                     }
                     .padding(.top)
+                Spacer()
+                Spacer()
+                Text(mission.formattedLauncDate)
+                    .font(.headline)
                 VStack(alignment: .leading) {
                     
                     Rectangle()

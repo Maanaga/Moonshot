@@ -1,9 +1,3 @@
-//
-//  Color-Theme.swift
-//  Moonshot
-//
-//  Created by Luka Managadze on 7/31/25.
-//
 
 import SwiftUI
 

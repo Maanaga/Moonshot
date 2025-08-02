@@ -1,9 +1,3 @@
-//
-//  Astronaut.swift
-//  Moonshot
-//
-//  Created by Luka Managadze on 7/29/25.
-//
 
 import Foundation
 

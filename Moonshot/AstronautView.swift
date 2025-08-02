@@ -1,9 +1,3 @@
-//
-//  AstronautView.swift
-//  Moonshot
-//
-//  Created by Luka Managadze on 8/1/25.
-//
 
 import SwiftUI
 

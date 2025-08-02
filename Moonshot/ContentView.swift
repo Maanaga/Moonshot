@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  Moonshot
-//
-//  Created by Luka Managadze on 7/28/25.
-//
 
 import SwiftUI
 
