@@ -8,7 +8,7 @@ A SwiftUI app that showcases NASA's Apollo missions and astronauts with an immer
 Moonshot is an iOS app built with SwiftUI that provides an interactive experience exploring the Apollo space program. Users can browse through various missions, learn about the astronauts who participated, and dive deep into the details of humanity's journey to the moon.
 
 ## Features
-● Grid-based layout displaying all Apollo missions
+● Grid/List-based layout displaying all Apollo missions
 
 ● Mission patches and launch dates
 
